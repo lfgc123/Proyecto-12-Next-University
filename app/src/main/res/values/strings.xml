@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiCRM12</string>
+    <string name="facebook_app_id">630733993790570</string>
+    <string name="hello_world">Banner!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_banner">ca-app-pub-7782647198124751~4368302623</string>
+</resources>
